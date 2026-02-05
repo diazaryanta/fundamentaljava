@@ -4,17 +4,11 @@ public class OperasiMatematika {
     public static void main(String[] args) {
         System.out.println("===== TEST OPERASI INTEGER =====\n");
 
-
-        testPenjumlahan();
+        //testPenjumlahan();
         //testPengurangan();
-        //testPerkalian();
-        //testPembagian();
-        //testSisaBagi();
-
 
         System.out.println("\n===== TEST INTEGER SELESAI! =====");
     }
-
 
     private static void testPenjumlahan() {
         System.out.println("TEST PENJUMLAHAN:");
