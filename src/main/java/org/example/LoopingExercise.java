@@ -3,7 +3,7 @@ package org.example;
 //Example 1
 public class LoopingExercise {
     public static void main(String[] args) {
-        int countdown = 3;
+        int countdown = 5;
 
         while (countdown > 0) {
             System.out.println(countdown);

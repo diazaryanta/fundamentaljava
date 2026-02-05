@@ -6,7 +6,7 @@ public class SwitchCaseExercise {
     }
     static void jalankanVendingMachine() {
 
-        int nomorTombol = 5;
+        int nomorTombol = 1;
 
         System.out.println("=== VENDING MACHINE MINUMAN ===");
         System.out.println("1. Coca Cola");

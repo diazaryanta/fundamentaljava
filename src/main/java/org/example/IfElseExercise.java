@@ -7,8 +7,8 @@ public class IfElseExercise {
 
         //testAngka();
         //testCekCuaca();
-        cekBaterai();
-        //cekPromoKingVapeStore();
+        //cekBaterai();
+        cekPromoKingVapeStore();
     }
     //single-If
     static void testAngka() {
