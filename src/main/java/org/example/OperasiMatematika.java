@@ -5,7 +5,7 @@ public class OperasiMatematika {
         System.out.println("===== TEST OPERASI INTEGER =====\n");
 
 
-        //testPenjumlahan();
+        testPenjumlahan();
         //testPengurangan();
         //testPerkalian();
         //testPembagian();
