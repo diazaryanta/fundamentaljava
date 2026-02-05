@@ -4,6 +4,7 @@ public class LoopingExercise {
 
     public static void main(String[] args) {
 
+        //Hapus tanda "//" di depan method yang ingin dijalankan:
         //ForLoop();
         WhileLoop();
     }
